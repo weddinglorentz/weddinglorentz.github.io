@@ -6,7 +6,7 @@
 ### Horaires
 * Mairie : 15h00
 * Eglise : 16h00
-* Vin d'honneur: 18h
+* Vin d'honneur: 18h00
 
 ### Contacts
 * Téléphone du marié : *To be communicated*
