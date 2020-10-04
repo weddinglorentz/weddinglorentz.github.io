@@ -7,6 +7,8 @@
 * Mairie : 15h00
 * Eglise : 16h00
 * Vin d'honneur: 18h00
+* Repas : 20h00
+* Brunch : J+1 - 10h30 (à partir)
 
 ## Plans
 * Mairie : [accès](https://goo.gl/maps/R6U4dsQvcuyNdfWF9)
