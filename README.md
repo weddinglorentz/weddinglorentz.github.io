@@ -23,5 +23,7 @@
   * Parking Chaudanne [accès](https://goo.gl/maps/WXehe5SvGtBvJsx67)
 * Se garer à l'église : 
   * Parking de la mairie : [accès](https://goo.gl/maps/5M69QH5jr4vfALxR7)
+* Se garer au chateau : 
+  * Privilégier les 2 premiers parking [preview](img/parking.png)
   
 
